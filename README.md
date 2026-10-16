@@ -63,13 +63,13 @@ The audit corrects storage-key corruption handling, autosave cancellation during
 
 There are no joins, loops, API/network nodes, arbitrary scripts, account sync, at-rest encryption or cold offline-launch guarantee. Browser eviction and abrupt shutdown can lose changes after the last completed save. Keep independent exports. The exact public resource limits remain in [DATA_CONTRACT](docs/DATA_CONTRACT.md).
 
-Contribution preparation follows [AGENTS](AGENTS.md): preserve contracts, add a regression for a confirmed defect, run relevant checks and retain actual evidence. The owner selected thebraz/FlowCanvas and MIT. Use GitHub issues for contributions and SECURITY.md for private vulnerability reporting.
+Contribution preparation follows [CONTRIBUTING](CONTRIBUTING.md): preserve contracts, add a regression for a confirmed defect, run relevant checks and retain actual evidence. The owner selected thebraz/FlowCanvas and MIT. Use GitHub issues for contributions and SECURITY.md for private vulnerability reporting.
 
 ## Specification map
 
 | Area                       | Authoritative specifications                                                                                                                                                             |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Governance                 | [Agent rules](AGENTS.md), [decisions](docs/DECISIONS.md), [development workflow](docs/DEVELOPMENT_WORKFLOW.md)                                                                           |
+| Governance                 | [Contributing](CONTRIBUTING.md), [decisions](docs/DECISIONS.md), [development workflow](docs/DEVELOPMENT_WORKFLOW.md)                                                                    |
 | Structure and dependencies | [Architecture](docs/ARCHITECTURE.md), [technology stack](docs/TECHNOLOGY_STACK.md)                                                                                                       |
 | Graph and data             | [Graph schema](docs/GRAPH_SCHEMA.md), [JSON and limits](docs/DATA_CONTRACT.md), [algorithms](docs/GRAPH_ALGORITHMS.md)                                                                   |
 | Editor                     | [Commands](docs/GRAPH_COMMANDS.md), [state](docs/STATE_MANAGEMENT.md), [interactions](docs/EDITOR_INTERACTIONS.md)                                                                       |

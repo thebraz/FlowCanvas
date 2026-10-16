@@ -9,3 +9,4 @@ playwright-report/
 .code-review-graph/
 docs/reports/evidence/
 release-assets/
+/AGENTS.md

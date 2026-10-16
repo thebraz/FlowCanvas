@@ -2,7 +2,7 @@
 
 ## Entry and scope control
 
-Implementation begins only on an explicit Stage 1, 2, 3, or 4 assignment. Read [AGENTS](../AGENTS.md), [roadmap](ROADMAP.md), relevant contract owners, [decisions](DECISIONS.md), and prior reports. Inspect the actual workspace and instruction hierarchy before modifying; the initial blueprint workspace was empty and not a Git repository. Do not initialize Git or invent remote/CI configuration without an authorized implementation need.
+Implementation begins only on an explicit Stage 1, 2, 3, or 4 assignment. Read the [contribution guide](../CONTRIBUTING.md), [roadmap](ROADMAP.md), relevant contract owners, [decisions](DECISIONS.md), and prior reports. Inspect the actual workspace and instruction hierarchy before modifying; the initial blueprint workspace was empty and not a Git repository. Do not initialize Git or invent remote/CI configuration without an authorized implementation need.
 
 Record stage inputs and current constraints. Prior stages must have PASS evidence or an explicit instruction defining how their deficiencies will be repaired within the assigned work. Do not assume missing reports mean success. Scope expansions, new nodes, backend features, and fundamental contract changes require a documented decision and appropriate authorization; routine implementation choices inside existing contracts do not require repeated confirmation.
 
