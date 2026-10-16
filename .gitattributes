@@ -1,0 +1,9 @@
+* text=auto eol=lf
+docs/reports/STAGE_1_REPORT.md export-ignore
+docs/reports/STAGE_2_REPORT.md export-ignore
+docs/reports/STAGE_3_REPORT.md export-ignore
+docs/reports/STAGE_3_FINAL_BROWSER_REPORT.md export-ignore
+docs/reports/STAGE_4_REPORT.md export-ignore
+docs/reports/STAGE_4_FINAL_AUDIT.md export-ignore
+docs/reports/BLUEPRINT_AUDIT.md export-ignore
+docs/reports/READABLE_EXPORT_FIX.md export-ignore

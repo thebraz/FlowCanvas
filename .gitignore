@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-benchmark/
+coverage/
+test-results/
+playwright-report/
+*.local
+.tmp/
+.code-review-graph/
+docs/reports/evidence/
+release-assets/
